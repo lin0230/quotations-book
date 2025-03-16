@@ -128,6 +128,10 @@ ex)
 
 <br>
 
+- [인생에서 가장 큰 영광은 결코 넘어지지 않는 것이 아니라, 넘어질 때마다 일어서는 것이다.](./theme/life/greatest-glory.md)
+
+<br>
+
 ## 조화
 
 - [행복한 가정은 모두 비슷한 이유로 행복하지만 불행한 가정은 저마다의 이유로 불행하다](./theme/harmony/anna-karenina.md)
